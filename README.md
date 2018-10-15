@@ -10,6 +10,6 @@ Reference from Teaching Video
   >3. UI动画使用TimeLine实现
   
 现有问题：
-  1.敌人自动巡逻时的碰撞异常（有时Rotation发生变化，会移动到天上）
+  1. 敌人自动巡逻时的碰撞异常（有时Rotation发生变化，会移动到天上）
   2.攻击判定等动画不流畅（逻辑衔接不好）
   3.未实装存读档功能
